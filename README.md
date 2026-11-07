@@ -10,8 +10,9 @@ I’m a high school builder focused on embedded systems, iOS, and applied AI. I 
 
 ## Selected work
 - [**Thermyx**](https://github.com/Thermyx/Thermyx) — A BLE smart-insole prototype with an iOS app, embedded-systems work, and a safety-focused demo backend. It is a supervised prototype, not a medical device or emergency-response system.
+- **Wayfare** — An iOS screen-time control app in private development.
 - [**WallView**](https://github.com/miheerparasnis-max/WallView) — An iOS ARKit prototype for previewing artwork on a real wall using a device camera and photo library.
-- [**First Invention Website**](https://github.com/miheerparasnis-max/FirstInventionWebsite) — A founding-stage static website and member-hub prototype for student invention education.
+- **TerraGauge** — A Houston-focused land-subsidence and flood-exposure investigation tool that combines NASA NISAR radar, historic satellite motion, local GPS, groundwater-compaction records, and flood exposure.
 
 ## Tools
 Swift · SwiftUI · Python · Firebase · ARKit · embedded systems · sensors · product design
